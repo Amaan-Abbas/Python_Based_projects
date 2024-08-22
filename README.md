@@ -1,5 +1,6 @@
 # Number_Guessing_Game
- Number Guessing Game with a user interactive GUI
+Program 1:
+Number Guessing Game with a user interactive GUI
 
  Uses Tkinter module provided by Python to create a user friendly interface for the player to play te game.
  Uses Random module, another module provided by Python which selects a randon number from between the range provided by te coder.
